@@ -1,23 +1,20 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+widget: hero
+widget_id: Soil health in a changing climate
+headless: true
+weight: 10
+title: Lin Lab
+subtitle: Soil health at University of Florida
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Lin Lab** at the University of Florida seeks to advance the understanding and application of soil health principles in the management of agricultural and natural ecosystems. Our research covers a wide range of topics including soil health assessment, organic matter persistence, remediation of legacy phosphorus, and nature-based solutions to climate change. We are a group of scientists who value diversity and inclusion and challenge each other in moving our science forward. 
+
+
+
+<!--EndFragment-->
